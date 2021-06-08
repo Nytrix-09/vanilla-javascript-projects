@@ -14,3 +14,5 @@ This folder has the folllowing **Projects** implemented in it:
 5. **GitHub Profile Search App** - The app integrates the GitHub API to enable search for any users on github. The search returns the user profile in an appealing card format wherein the card contains the following: username, user profile image, user bio, number of followers, following and the number of public github repositories from that account. The gradient colors are taken from [Egg Gradient](https://www.eggradients.com/). 
 
 6. **Color Switch** - Basic Java Script project to demonstrate basic functionalities and loop usage in JavaScript. The user can rotate between a "simple" tab that will change between preset colors on random. Also, there's a "hex" option wherein the user will click on the button and a random color will be generated with random hex numbers. It uses the nav-center for an acceptable UI.
+
+7. **Counter** - Basic javascript app that displays a counter and gives the option to increse/decrease/reset the counter value. The value is green when positive, red when negative and black when equal to 0. 
